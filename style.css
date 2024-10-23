@@ -1,0 +1,134 @@
+.main {
+    background-color: #c0dbd9;
+}
+
+.open-pop-up-button {
+    display: flex;
+    color: white;
+    background-color: #A6C6F5;
+    border-radius: 5px;
+    padding: 10px;
+    border-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: white;
+    padding: 150px;
+}
+
+.pop-up-button {
+    background-color: #7faff7;
+    padding: 20px;
+}
+
+.one-three {
+    display: flex;
+    background-color: #b3f95a;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.four-five {
+    display: flex;
+    background-color: #b3f95a;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.one {
+    display: flex;
+    color: white;
+    background-color: #8ad191;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    height: 140px;
+    width: 200px;
+    border-style: none;
+}
+
+.two {
+    display: flex;
+    color: white;
+    background-color: #8ad191;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    height: 140px;
+    width: 600px;
+    border-style: none;
+}
+
+.three {
+    display: flex;
+    color: white;
+    background-color: #8ad191;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    height: 140px;
+    width: 100px;
+    border-style: none;
+}
+
+.four {
+    display: flex;
+    color: white;
+    background-color: #8ad191;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    height: 140px;
+    width: 800px;
+    border-style: none;
+}
+
+.five {
+    display: flex;
+    color: white;
+    background-color: #8ad191;
+    border-radius: 0px;
+    margin: 10px;
+    padding: 10px;
+    height: 140px;
+    width: 100px;
+    border-style: none;
+}
+
+.blue-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: #88b5bf;
+}
+
+.empty {
+    background-color: #0d89b0;
+    border-style: none;
+    border-radius: 0px;
+    height: 140px;
+    width: 200px;
+    margin: 10px;
+}
+
+.last-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.long-button {
+    display: flex;
+    background-color: #7faff7;
+    border-radius: 0px;
+    margin: 60px;
+    padding: 10px;
+    height: 140px;
+    width: 2400px;
+    border-style: none;
+}
